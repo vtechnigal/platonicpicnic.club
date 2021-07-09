@@ -4,4 +4,9 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  }
+}
+
+h1 {
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
