@@ -16,6 +16,7 @@ h1 {
     color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgba(255, 255, 255, 0.2);
+    color: #444;
     display:flex;
     justify-content: center;
     align-items: center;
