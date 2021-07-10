@@ -21,5 +21,5 @@ h1 {
     justify-content: center;
     align-items: center;
     font-size: 6em;
-    text-shadow: 2px 2px aqua, 4px 4px hotpink, 6px 6px whitesmoke, 8px 8px hotpink, 10px 10px aqua;
+    text-shadow: 1px 1px aqua, 2px 2px hotpink, 3px 3px whitesmoke, 5px 5px hotpink, 6px 6px aqua;
 }
